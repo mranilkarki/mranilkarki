@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Anil Karki
+# Hi, I'm Anil Karki
 
-🚀 Full Stack Web Developer | IT Trainer  
-💻 Laravel • React • Next.js • MySQL  
-🌍 Based in Nepal | Open to International Opportunities (UAE)
+-Full Stack Web Developer | IT Trainer  
+-Laravel • React • Next.js • MySQL  
+-Based in Nepal | Open to International Opportunities (UAE)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Mid-Level Full Stack Web Developer and IT Trainer** with 3+ years of experience building **production-level web applications**, custom CMS systems, and API-driven platforms.
 
@@ -14,7 +14,7 @@ I specialize in **Laravel backend development**, **modern JavaScript frontends (
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 - HTML5, CSS3, Bootstrap, Tailwind CSS
@@ -35,7 +35,7 @@ I specialize in **Laravel backend development**, **modern JavaScript frontends (
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 Bikers Nepal – CMS & Web Platform
 🌐 http://www.bikersnepal.com  
@@ -64,7 +64,7 @@ I specialize in **Laravel backend development**, **modern JavaScript frontends (
 
 ---
 
-## 📌 What I Work On
+## What I Work On
 
 - Full Stack Web Applications
 - Custom CMS Development
@@ -74,7 +74,7 @@ I specialize in **Laravel backend development**, **modern JavaScript frontends (
 
 ---
 
-## 📈 GitHub Goals
+## GitHub Goals
 
 - Share real-world Laravel and React projects  
 - Document reusable components and best practices  
@@ -82,11 +82,10 @@ I specialize in **Laravel backend development**, **modern JavaScript frontends (
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 📧 Email: mranilkarki@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/mranilkarki  
-- 🌐 Portfolio: (Add when ready)
+- Email: mranilkarki@gmail.com  
+- LinkedIn: https://linkedin.com/in/mranilkarki  
 
 ---
 
